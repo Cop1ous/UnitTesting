@@ -1,0 +1,17 @@
+{
+  "name": "class-12-unit-tests-practice-problems",
+  "version": "1.0.0",
+  "description": "Step 1.\r npm install --save-dev jest",
+  "main": "carForSale.test.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+
+}
